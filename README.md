@@ -5,3 +5,4 @@ Append a number,
  Delete from end,
  Display linked list,
  Exit.
+and also atm transaction in dsa
